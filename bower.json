@@ -1,0 +1,19 @@
+{
+  "name": "css-animation-check",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kindlepub/css-animation-check",
+  "authors": [
+    "kindlepub <fcampas@kindlepublishing.com>"
+  ],
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
