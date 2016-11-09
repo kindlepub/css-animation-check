@@ -40,11 +40,4 @@ cssAnimationCheck.option(animationOptionName,optionValue) // updates keys.json f
 
 MIT license
 
-[npm-image]: https://img.shields.io/npm/v/css-animation-check.svg?style=flat
 [npm-url]: https://npmjs.org/package/css-animation-check
-[downloads-image]: https://img.shields.io/npm/dm/css-animation-check.svg?style=flat
-[downloads-url]: https://npmjs.org/package/css-animation-check
-[travis-image]: https://img.shields.io/travis/kindlepub/css-animation-check.svg?style=flat
-[travis-url]: https://travis-ci.org/kindlepub/css-animation-check
-[coveralls-image]: https://img.shields.io/coveralls/kindlepub/css-animation-check.svg?style=flat
-[coveralls-url]: https://coveralls.io/r/kindlepub/css-animation-check?branch=master
