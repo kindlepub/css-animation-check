@@ -10,7 +10,7 @@
 ## Installation
 
 ```sh
-npm install css-animation-check --save
+npm install css-animation-check --save-dev
 ```
 
 ## Usage
